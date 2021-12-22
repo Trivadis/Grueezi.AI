@@ -13,7 +13,7 @@ und die beiden neuronalen Stimmen
 
 App lokal ausführen
 
-1. Zip File aus dem Repository herunterladen
+1. Zip File aus dem Ordner "Package" im [Repository](https://github.com/Trivadis/Grueezi.AI) herunterladen
 2. In eine Ordner entpacken 
 3. Das Install.ps mit Powershell ausführen
 4. Die Meldungen mit ja bestätigen
